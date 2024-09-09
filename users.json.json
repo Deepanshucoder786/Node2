@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "first_name": "Leon",
+        "last_name": "Domelow",
+        "email": "ldomelow0@wikipedia.org",
+        "gender": "Male",
+        "Salary":10000
+    },
+    {
+        "id": 2,
+        "first_name": "Abe",
+        "last_name": "Batten",
+        "email": "abatten1@booking.com",
+        "gender": "Male",
+        "Salary":12000
+    },
+    {
+        "id": 3,
+        "first_name": "Felicio",
+        "last_name": "Rawle",
+        "email": "frawle2@mtv.com",
+        "gender": "Male",
+        "Salary":18000
+    },
+    {
+        "id": 4,
+        "first_name": "Philbert",
+        "last_name": "Klaessen",
+        "email": "pklaessen3@multiply.com",
+        "gender": "Male",
+        "Salary":11000
+    },
+    {
+        "id": 5,
+        "first_name": "Janna",
+        "last_name": "Cejka",
+        "email": "jcejka4@oaic.gov.au",
+        "gender": "Female",
+        "Salary":20000
+    },
+    {
+        "id": 6,
+        "first_name": "Anselma",
+        "last_name": "Menco",
+        "email": "amenco5@bloglovin.com",
+        "gender": "Female",
+        "Salary":188000
+    },
+    {
+        "id": 7,
+        "first_name": "Dud",
+        "last_name": "Downing",
+        "email": "ddowning6@t-online.de",
+        "gender": "Male",
+        "Salary":199000
+
+    },
+    {
+        "id": 8,
+        "first_name": "Donnie",
+        "last_name": "Castille",
+        "email": "dcastille7@merriam-webster.com",
+        "gender": "Male",
+        "Salary":30000
+    },
+    {
+        "id": 9,
+        "first_name": "Kellie",
+        "last_name": "Aherne",
+        "email": "kaherne8@smugmug.com",
+        "gender": "Female",
+        "Salary":40000
+    },
+    {
+        "id": 10,
+        "first_name": "Patti",
+        "last_name": "Eslemont",
+        "email": "peslemont9@comsenz.com",
+        "gender": "Female",
+        "Salary":14000
+    }
+]
